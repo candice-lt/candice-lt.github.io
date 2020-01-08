@@ -1,4 +1,4 @@
-# general configuration
+﻿# general configuration
 url: http://arlen-lt.github.io
 baseurl: ''
 
@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Arlen"
+  author: "Candice"
   # tagline will appear under the title (optional)
   tagline: "与其感慨路难行<br>不如马上出发"
   # if include_content is true, the contents of the content.html include will be
@@ -18,7 +18,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "Arlen49615388"
+  # twitter: ""
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
