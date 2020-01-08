@@ -19,9 +19,11 @@ layout: base
     </header>
     <main>
       {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
-      </div>
+        <div class="content">
+            {% include introduction.html %}
+            {% include wash.html %}
+            {% include content.html %}
+        </div>
       {% endif %}
     </main>
 </div>
