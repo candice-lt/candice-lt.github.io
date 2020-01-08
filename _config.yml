@@ -1,4 +1,5 @@
-﻿# general configuration
+﻿encoding: UTF-8
+# general configuration
 url: http://candice-lt.github.io
 baseurl: ''
 
@@ -18,7 +19,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  # twitter: ""
+  twitter: "candice"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
