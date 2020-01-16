@@ -8,9 +8,9 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Candice"
+  author: "Dazhen Yang"
   # tagline will appear under the title (optional)
-  tagline: "与其感慨路难行<br>不如马上出发"
+  tagline: ""
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -19,7 +19,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "Arlen49615388"
+  twitter: ""
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
